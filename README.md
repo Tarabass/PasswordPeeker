@@ -6,14 +6,14 @@ With Password Peeker you give users the ability to peek for typo's in their give
 
 ###Installation
 1. Place the content of this package into the package folder of your workspace
-2. Add "PasswordField" to the requires array within the app.json of the app where you want to use Password Peeker
-3. Add 'PasswordField.form.field.PasswordField' to the requires array of the view from where you want to use Password Peeker
-4. The xtype is 'passwordfield'
+2. Add "PasswordPeeker" to the requires array within the app.json of the app where you want to use Password Peeker
+3. Add 'PasswordPeeker.form.field.PasswordPeeker' to the requires array of the view from where you want to use Password Peeker
+4. The xtype is 'passwordpeeker'
 
 ###Known issues
-1. Needs to be tested in older browsers
-2. Needs to be tested in Opera and Safari
-3. Needs to be tested in several environments
+1. Needs to be tested in older browsers, Opera en Safari
+2. Needs to be tested in several environments
+3. Not compatible with compatibility modes in Internet Explorer 11
 
 ###The MIT License (MIT)
 Permission is hereby granted, free of charge, to any person obtaining a copy
