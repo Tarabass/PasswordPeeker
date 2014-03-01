@@ -1,0 +1,10 @@
+{
+  "name": "PasswordPeeker",
+  "format": "1",
+  "version": "1.0.0",
+  "compatVersion": "4.0",
+  "creator": "Peter Rietveld",
+  "summary": "Adds a trigger to a password field to peek for typo\u0027s",
+  "detailedDescription": "With this password field you give users the ability to peek for typo\u0027s in their given password. This can be savely done by clicking on the eye-icon at the end of the textfield. As long as the eye-icon is clicked the password will be visible, and when the mouse is released the password will become invisible again automatically.",
+  "type": "code"
+}
